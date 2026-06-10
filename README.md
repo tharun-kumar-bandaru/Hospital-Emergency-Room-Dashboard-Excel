@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="Final Dash Board" src="https://github.com/user-attachments/assets/e8f5199d-c212-43ba-b769-4c3ea6e5e1d2" />
+<img width="1441" height="877" alt="Screenshot 2026-06-10 134814" src="https://github.com/user-attachments/assets/200cdc96-8461-4029-a5ab-f1385bc47e94" />
+
  Hospital Emergency Room Interactive Dashboard
 📌 Project Overview
 
